@@ -1,0 +1,8 @@
+# Виртуальное окружение
+venv/
+__pycache__/
+
+# Файл с секретными ключами
+.env
+env_template.txt
+upload_status.json 
